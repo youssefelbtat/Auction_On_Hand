@@ -1,0 +1,24 @@
+{
+  "id": 3,
+  "seller": "Youssef Elbtat",
+  "isLive": false,
+  "isFavorite": true,
+  "isEnd": false,
+  "points": 10,
+  "cBid": 1500,
+  "startDate": "23/1/2022",
+  "days": "3",
+  "hours": "12",
+  "minutes": "32",
+  "second": "34",
+  "productDate": {
+    "title": "Luxury Villa in Golf Al Sulaymaniya.",
+    "description": "Luxury Villa in Golf Al Sulaymaniya.",
+    "images": [
+      "assets/images/bmwx6.jpg",
+      "assets/images/villa.jpg"
+    ],
+    "rPrice": 3600,
+    "sPrice": 1000
+  }
+}
